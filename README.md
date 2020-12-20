@@ -110,7 +110,7 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 ## 捐助地址
 
-{% embed url="https://afdian.net/@DXTL666l" %}
+{% embed url="https://afdian.net/@DXTL666" %}
 
 开服成本高昂，如果希望支持服务器发展，可以点击上面的链接捐助我们哦QAQ~
 
