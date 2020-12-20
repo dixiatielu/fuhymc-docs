@@ -38,6 +38,8 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 ### 下载启动器
 
+{% file src=".gitbook/assets/hmcl-3.2.149.zip" caption="测试文件" %}
+
 [点击这里](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/FuHyMC.zip)下载FuHyMC部分配置好的HMCL客户端。
 
 若需使用其他启动器，请访问[LittleSkin官网用户使用手册](https://manual.littlesk.in/advanced/yggdrasil.html#%E5%9C%A8%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8)
@@ -100,7 +102,7 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 请先查阅常见问题指南
 
-{% page-ref page="faq.md" %}
+{% page-ref page="fu-wu-qi-wan-fa/faq.md" %}
 
 若仍然无法解决，请在QQ群内联系在线玩家。
 
@@ -110,13 +112,13 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 ## 捐助地址
 
-{% embed url="https://afdian.net/@DXTL666" %}
+{% embed url="https://afdian.net/@DXTL666" caption="" %}
 
 开服成本高昂，如果希望支持服务器发展，可以点击上面的链接捐助我们哦QAQ~
 
 ## 推广地址
 
-{% embed url="https://play.mcmod.cn/sv20183807.html" %}
+{% embed url="https://play.mcmod.cn/sv20183807.html" caption="" %}
 
 上面是本服务器在MCMod平台的推广地址。
 
