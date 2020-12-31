@@ -94,23 +94,21 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 ### 遇到问题怎么办？
 
-请先查阅常见问题指南
-
-{% page-ref page="fu-wu-qi-wan-fa/faq.md" %}
+[请先点击这里查阅常见问题指南](fu-wu-qi-wan-fa/faq.md)
 
 若仍然无法解决，请在QQ群内联系在线玩家。
 
-!>进群后，遇到问题请直接发到群里，不要私聊腐竹！
+!> 进群后，遇到问题请直接发到群里，不要私聊腐竹！
 
 ## 捐助地址
 
-{% embed url="https://afdian.net/@DXTL666" caption="" %}
+[我是FuHyMC捐助地址](https://afdian.net/@DXTL666)
 
 开服成本高昂，如果希望支持服务器发展，可以点击上面的链接捐助我们哦QAQ~
 
 ## 推广地址
 
-{% embed url="https://play.mcmod.cn/sv20183807.html" caption="" %}
+[MCMod推广地址](https://play.mcmod.cn/sv20183807.html)
 
 上面是本服务器在MCMod平台的推广地址。
 
