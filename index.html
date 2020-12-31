@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>FuHyMC服务器使用手册</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
@@ -14,8 +15,20 @@
       loadSidebar: 'SUMMARY.md',
       name: 'FuHyMC服务器使用手册',
       nameLink: '/',
+	  pagination: {
+		previousText: '上一章节',
+		nextText: '下一章节',
+		crossChapter: true,
+		crossChapterText: true,
+		},
     }
   </script>
+  <!-- docsify -->
   <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  
 </body>
 </html>

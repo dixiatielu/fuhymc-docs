@@ -1,8 +1,6 @@
----
-description: 使用LittleSkin外置登录进入服务器
----
+# FuHyMC服务器加入方法
 
-# 服务器加入方法
+> 使用LittleSkin外置登录进入服务器
 
 ## 简介
 
@@ -64,9 +62,7 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 按照图片中的指示，安装MC1.15.2。
 
-{% hint style="info" %}
-这里建议使用我的世界中文论坛的下载源（已切换好），这样会快一些。
-{% endhint %}
+> 这里建议使用我的世界中文论坛的下载源（已切换好），这样会快一些。
 
 ![&#x5207;&#x6362;&#x4E0B;&#x8F7D;&#x6E90;](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/image%20%284%29.png)
 
@@ -104,9 +100,7 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 若仍然无法解决，请在QQ群内联系在线玩家。
 
-{% hint style="warning" %}
-进群后，遇到问题请直接发到群里，不要私聊腐竹！
-{% endhint %}
+!>进群后，遇到问题请直接发到群里，不要私聊腐竹！
 
 ## 捐助地址
 
