@@ -1,6 +1,6 @@
 # FuHyMC服务器加入方法
 
-> 使用LittleSkin外置登录进入服务器
+> 本服务器需要使用LittleSkin外置登录进入服务器
 
 ## 简介
 
