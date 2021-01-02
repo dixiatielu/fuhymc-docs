@@ -38,7 +38,9 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 [点击这里](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/FuHyMC.zip)下载FuHyMC部分配置好的HMCL客户端
 
-若需使用其他启动器，请访问[LittleSkin官网用户使用手册](https://manual.littlesk.in/advanced/yggdrasil.html#%E5%9C%A8%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8)
+若需使用其他启动器（或者不想下载我们提供的HMCL启动器），请首先访问[LittleSkin官网用户使用手册](https://manual.littlesk.in/advanced/yggdrasil.html#%E5%9C%A8%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8)
+
+阅读完毕后，您可以在您的启动器中寻找类似`Yggdrasil`、`外置登录`、`Authlib-Injector`、`第三方登录`等类似的选项，将`认证服务器`设置为`littlesk.in`，最后输入你在LittleSkin上注册时的邮箱和密码登录并启动游戏即可。
 
 以下操作说明以从上面的链接下载好的HMCL为准
 
