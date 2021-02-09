@@ -1,12 +1,6 @@
-* [服务器加入方法](README.md)
 
-**服务器玩法**
-
-
-* [服务器内的常用操作](fu-wu-qi-wan-fa/fu-wu-qi-nei-de-chang-yong-cao-zuo.md)
-* [QQ群内的机器人指令](fu-wu-qi-wan-fa/qq-qun-nei-de-ji-qi-ren-zhi-ling.md)
-* [更新日志](fu-wu-qi-wan-fa/geng-xin-ri-zhi.md)
-* [FAQ\(常见问题\)](fu-wu-qi-wan-fa/faq.md)
+* [首页](/ "FuHyMC - Minecraft高版本粘液科技群组服务器")
+* [服务器玩法](fu-wu-qi-wan-fa)
 
 **有关服务器的外部链接**
 

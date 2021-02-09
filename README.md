@@ -69,7 +69,7 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 > 这里建议使用我的世界中文论坛的下载源（已切换好），这样会快一些。
 
-![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/image (4).png)
+![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/chossing-version.png)
 
 ![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/xia-zai-he-qi-dong-you-xi-3.png)
 
@@ -83,7 +83,7 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 最后，回到HMCL启动器首页启动Minecraft。
 
-![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/image (6).png)
+![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/qi-dong-you-xi.png)
 
 ### 添加服务器并开始游戏
 
