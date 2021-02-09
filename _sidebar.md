@@ -1,6 +1,6 @@
 
-* [首页](/ "FuHyMC - Minecraft高版本粘液科技群组服务器")
-* [服务器玩法](/fu-wu-qi-wan-fa)
+* [首页](/README "FuHyMC - Minecraft高版本粘液科技群组服务器")
+* [服务器玩法](/fu-wu-qi-wan-fa/)
 
 **有关服务器的外部链接**
 
