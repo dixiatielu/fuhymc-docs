@@ -4,15 +4,15 @@
 
 ## 简介
 
-服务器版本：1.15.2
+服务器版本：1.16.5
 
 **服务器地址：`mc.fuhymc.cn`**
 
 备用地址：`play.fuhymc.cn:10086` \(上面那个加不进去就用这个\)
 
-玩法：粘液科技 ~~以及咕咕咕的腐竹~~
+玩法：粘液科技以及大量附属 + 危险洞穴 + 更多附魔
 
-特色：使用[LittleSkin](https://mcskin.littleservice.cn/)的外置登录，让各玩家能互相看到皮肤
+特色：使用[LittleSkin](https://mcskin.littleservice.cn/)的外置登录，各玩家能互相看到皮肤
 
 QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=1027&k=bw6B6MKN)
 
@@ -28,7 +28,7 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 ### LittleSkin的基本使用
 
-* 打开注册时你所使用的邮箱，找到LittleSkin给你发来的邮箱验证邮件并点击按钮验证你的邮箱。
+* 打开注册时你所使用的邮箱，找到LittleSkin发送的邮箱验证邮件并点击按钮验证你的邮箱。
 * 在网页侧边栏中创建一个角色，这个角色的名字即为你的游戏名。
 * 如果你希望你在游戏中的角色不是史蒂夫，请在皮肤库选择你喜欢的皮肤，或者上传新皮肤，并把你的皮肤应用到你创建的角色上。
 
@@ -65,11 +65,11 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 ![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/xia-zai-he-qi-dong-you-xi-1.png)
 
-按照图片中的指示，安装MC1.15.2。
+按照图片中的指示，安装MC1.16.5。
 
 > 这里建议使用我的世界中文论坛的下载源（已切换好），这样会快一些。
 
-![&#x5207;&#x6362;&#x4E0B;&#x8F7D;&#x6E90;](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/image%20%284%29.png)
+![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/image (4).png)
 
 ![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/xia-zai-he-qi-dong-you-xi-3.png)
 
@@ -81,9 +81,9 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 稍等片刻，等待游戏版本安装完成。
 
-最后，回到HMCL启动器首页启动Minecraft1.15.2。
+最后，回到HMCL启动器首页启动Minecraft。
 
-![&#x542F;&#x52A8;&#x6E38;&#x620F;](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/image%20%286%29.png)
+![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/image (6).png)
 
 ### 添加服务器并开始游戏
 
