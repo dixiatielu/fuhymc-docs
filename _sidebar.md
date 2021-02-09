@@ -1,10 +1,11 @@
-
-* [首页](/README "FuHyMC - Minecraft高版本粘液科技群组服务器")
+* 入门
+  * [首页](/README "FuHyMC - Minecraft高版本粘液科技群组服务器")
+  * [加入方法](how-to-join.md)
 * 服务器玩法
   * [服务器常用技巧](fu-wu-qi-wan-fa/useful-skills.md)
   * [常见问题](fu-wu-qi-wan-fa/faq.md)
   * [QQ机器人指令](fu-wu-qi-wan-fa/qqbot.md)
-  * [更新日志](updating-log.md)
+* [更新日志](changelog.md)
 
 * 有关服务器的外部链接
 * [LittleSkin官网](https://littlesk.in)
