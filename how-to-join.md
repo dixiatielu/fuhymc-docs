@@ -20,7 +20,7 @@
 
 [点击这里](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/FuHyMC.zip)下载FuHyMC部分配置好的HMCL客户端
 
-若需使用其他启动器（或者不想下载我们提供的HMCL启动器），请首先访问[LittleSkin官网用户使用手册](https://manual.littlesk.in/advanced/yggdrasil.html#%E5%9C%A8%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8)
+若需使用其他启动器（或者不想下载我们提供的HMCL启动器），请首先访问[LittleSkin官网用户使用手册](https://blessing.netlify.app/yggdrasil-api/authlib-injector.html)
 
 阅读完毕后，您可以在您的启动器中寻找类似`Yggdrasil`、`外置登录`、`Authlib-Injector`、`第三方登录`等类似的选项，将`认证服务器`设置为`littlesk.in`，最后输入你在LittleSkin上注册时的邮箱和密码登录并启动游戏即可。
 
@@ -55,7 +55,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/xia-zai-he-qi-dong-you-xi-3.png)
 
-按照你的喜好，可以选择安装Optifine，当然也可以不安装。如果选择安装请安装最新版。
+在这里**建议**安装Optifine，当然也可以不安装。如果选择安装请安装最新版。
 
 ![](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/xia-zai-he-qi-dong-you-xi-4.png)
 
@@ -71,11 +71,11 @@
 
 这一部分相信大家都很熟悉了，这里就不再赘述。
 
-进入游戏后，如果界面显示为英文，请点击左下角地球图标，在最下面选择中文即可。
+进入游戏后，如果界面显示为英文，请点击左下角地球图标，在最下方选择中文即可。
 
 点击"多人游戏",添加服务器地址为 **`mc.fuhymc.cn`**
 
-如果上面地址进不去，请使用`play.fuhymc.cn:10086`
+如果上面地址无法加入，请使用`play.fuhymc.cn:10086`
 
 进入游戏，快乐游玩吧!
 

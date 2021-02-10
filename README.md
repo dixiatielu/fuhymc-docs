@@ -16,4 +16,6 @@
 
 QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=1027&k=bw6B6MKN)
 
-## [准备好了吗，那就快戳我来看看加入方法吧！](how-to-join)
+## 准备好了吗，那就
+
+[![https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/click-to-join.png]](how-to-join)
