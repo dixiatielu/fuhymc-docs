@@ -18,4 +18,4 @@ QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=102
 
 ## 准备好了吗，那就
 
-[![https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/click-to-join.png]](how-to-join)
+[![点击获取加入方法吧](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/click-to-join.png)](how-to-join)
