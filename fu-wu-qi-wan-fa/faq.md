@@ -10,7 +10,7 @@
 
 ## 进入服务器时显示"Unknown Host"
 
-请尝试使用备用域名`sf.fuhymc.cn:10086`
+请尝试使用备用域名`entrance.fuhymc.cn:10096`
 
 ## 进入服务器时显示"无法验证用户名"
 
