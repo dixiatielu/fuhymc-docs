@@ -1,0 +1,75 @@
+﻿
+<!-- 这是 PCL2 的主页自定义文件。你可以通过修改这个文件来自定义 PCL2 主页：添加文本、打开网页、启动游戏，等等。
+     如果你倒腾这个文件把 PCL2 玩炸了，把这个文件直接删除就行了。
+     如果你懂得 WPF 的布局文件编写，你甚至可以做出不少的新玩意儿…… -->
+
+<local:MyCard Title="欢迎来到FuHyMC服务器" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <local:MyHint Margin="0,0,0,7" IsWarn="False"
+                   Text="如果尚未加入FuHyMC QQ交流群，建议你立刻点击下方按钮或QQ搜索群号1079084078加群。" />
+        <local:MyHint Margin="0,0,0,7" IsWarn="False"
+                   Text="如果你是新玩家，请务必先打开FuHyMC游玩手册阅读~" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,4"
+                   Text="你好呀，欢迎你来到FuHyMC世界~" />
+        <TextBlock TextWrapping="Wrap" Margin="0,0,0,10"
+                   Text="祝你在FuHyMC玩的开心~" />
+      
+        <!-- 这是第一行 -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <local:MyButton Margin="0,0,10,0" Width="160" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0" ColorType="Highlight"
+                   Text="打开FuHyMC游玩手册" EventType="打开网页" EventData="https://www.fuhymc.cn/" />
+            <local:MyButton Margin="0,0,10,0" Width="160" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                   Text="进入LittleSkin注册页面" EventType="打开网页" EventData="https://mcskin.littleservice.cn/auth/register" />
+        </StackPanel>
+      
+        <!-- 这是第二行 -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,10,0,0">
+            <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                   Text="加入FuHyMC QQ群" EventType="打开网页" EventData="https://jq.qq.com/?_wv=1027&amp;k=sgG1CaXI" ToolTip="这条 Minecraft 命令会在每个玩家头顶召唤一只苦力怕！" />
+            <local:MyButton Margin="0,0,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                   Text="刷新主页" EventType="刷新主页" ToolTip="点击获取最新FuHyMC启动器主页" ColorType="Red"/>
+        </StackPanel>
+      
+    </StackPanel>
+</local:MyCard>
+
+
+
+<!-- 
+
+全部通用的属性：
+ - Width、Height：设置宽度与高度
+ - ToolTip：设置鼠标指向时的提示文本
+ - Foreground：调整前景颜色（十六进制字符串，例如 #FF010203 代表 ARGB 中的 255,1,2,3。前两位代表不透明度，FF 为全不透明，00 为全透明）
+ - Background：调整背景颜色（使用类似 Background="{DynamicResource ColorBrush5}" 的格式以调用 PCL2 当前的主题颜色，修改末尾的数字编号以改变颜色浓度）
+ - Margin：调整外边距（格式为 左,上,右,下。例如 Margin="0,0,0,2" 即为 2 单位的下边距）
+ - HorizontalAlignment：设置对齐方式（Left、Center、Right）
+
+TextBlock（纯文本）：
+ - Text：设置显示的文本（如果要使用引号等特殊字符，自行百度 XAML 转义）
+ - TextWrapping：开启自动换行
+ - FontSize：设置字号
+ 
+Image（图片）：
+ - Source：要显示的图片的网址
+
+local:MyHint（提示条）：
+ - Text：设置显示的文本（&#xA; 代表换行）
+ - IsWarn：设置为 True 代表警告样式，False 代表提示样式
+ 
+local:MyButton（按钮）：
+ - Text：设置显示的文本
+ - Padding：设置内边距，格式与 Margin 一致
+ - ColorType：设置颜色主题（Highlight 为当前启动器的主题颜色，Red 为红色，默认为黑色）
+ - EventType、EventData：触发特定事件
+ 
+local:MyTextButton（文本按钮）：
+ - Text：设置显示的文本
+ - EventType、EventData：触发特定事件
+ 
+local:MyCard（卡片）：
+ - Title：设置显示的标题文本
+ - CanSwap：这张卡片是否可以折叠，True 为是，False 为否
+ - IsSwaped：这张卡片是否默认折叠，要求 CanSwap 必须为 True
+
+-->
