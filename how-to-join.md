@@ -12,7 +12,9 @@
 
 * 打开注册时你所使用的邮箱，找到LittleSkin发送的邮箱验证邮件并点击按钮验证你的邮箱。
 * 在网页侧边栏中**创建一个角色**，这个角色的名字即为你的游戏名。
+
 !> 请务必在启动游戏前在LittleSkin内至少创建一个角色，否则后续游戏无法启动！
+
 * 如果你希望你在游戏中的角色不是Steve，请在皮肤库选择你喜欢的皮肤，或者上传新皮肤，并把你的皮肤应用到你创建的角色上。
 
 可以访问LittleSkin配有的[官方用户手册](https://manual.littlesk.in/)获取更多使用方法。
@@ -37,7 +39,8 @@
 ## 运行启动器
 1. 使用你电脑上常用的解压缩软件解压下载下来的压缩包
 
-2. 双击运行`Plain Craft Launcher 2.exe`如图所示
+2. 双击运行解压出来文件夹中的`Plain Craft Launcher 2.exe`如图所示
+
   ![PCL2-1](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/PCL2-1.png)
 
 3. 在左侧的账号和密码框中输入您刚刚在LittleSkin注册时所使用的邮箱以及密码，然后点击下方`启动游戏`
