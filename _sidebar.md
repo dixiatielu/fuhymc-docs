@@ -9,7 +9,7 @@
 * [捐助FuHyMC](sponsor.md)
 
 * 有关服务器的外部链接
-* [LittleSkin官网](https://littlesk.in)
+* [LittleSkin官网](https://mcskin.littleservice.cn/)
 * [爱发电捐助地址](https://afdian.net/@DXTL666)
 * [服务器反馈平台](https://support.qq.com/products/174476)
 * [Java官方下载页面](https://java.com/zh-CN/download/)

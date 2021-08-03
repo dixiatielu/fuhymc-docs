@@ -4,14 +4,25 @@
 
 [点击这里进入LittleSkin官网](https://mcskin.littleservice.cn/)注册账号
 
-\(若拥有正版Minecraft，可以无需注册直接点击登录并使用正版注册邮箱和密码登录\)
+[点击这里进入LittleSkin官网](https://mcskin.littleservice.cn/)注册账号
+
+[点击这里进入LittleSkin官网](https://mcskin.littleservice.cn/)注册账号
+
+\(若拥有正版Minecraft，可以无需注册直接点击登录并使用正版注册邮箱和密码在LittleSkin登录\)
+
+!> 这里的“正版账户直接登录”并非指在启动器登录，您仍需在LittleSkin网站使用您的正版邮箱与密码登录一次并完成后续步骤。
 
 你也可以选择使用MCBBS账号或者Microsoft Live（微软账号）登录。
 
 ## LittleSkin的基本使用
 
 * 打开注册时你所使用的邮箱，找到LittleSkin发送的邮箱验证邮件并点击按钮验证你的邮箱。
-* 在网页侧边栏中**创建一个角色**，这个角色的名字即为你的游戏名。
+
+* 如图所示，在网页侧边栏中**创建一个角色**，这个角色的名字即为你的游戏名。
+
+  ![LS角色管理](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/LS-Character.png)
+
+  ![LS角色管理](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/LS-character2.png)
 
 !> 请务必在启动游戏前在LittleSkin内至少创建一个角色，否则后续游戏无法启动！
 
@@ -53,10 +64,10 @@
 
 ## 进入服务器
    点击"多人游戏"，选择进入上方服务器，地址为 **`play.fuhymc.cn`**
-   
+
    如果上面地址无法加入，请使用下方地址为`entrance.fuhymc.cn:10096`的服务器
    ![PCL2-4](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/PCL2-4.png)
-   
+
    至此，你已经成功进入FuHyMC服务器，现在，就快乐游玩吧！
 ## 遇到问题怎么办？
 
