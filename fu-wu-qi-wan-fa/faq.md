@@ -22,3 +22,6 @@
 
 如果确定你使用了外置登录，那么在启动器内删除LittkeSkin登录角色，然后重新添加账户即可解决。
 
+## 已配置好的 PCL2 无法正常使用
+
+加入[QQ群:1079084078](https://qm.qq.com/cgi-bin/qm/qr?k=go8Y_TnRFM2xK0jqqc5wN_s1ZaGOXn8z&authKey=7O/u9E8Agr6tjK7ewKP4Hh/GGoZBxyY1fPqBxp6IyrGpXSfIXo3ijfW++mxXz38+&noverify=0)，在群文件中获取最新版本。
