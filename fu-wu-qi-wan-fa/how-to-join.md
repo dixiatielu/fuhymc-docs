@@ -18,7 +18,7 @@
 
 ## 下载启动器
 
-[点击这里](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/FuHyMC.zip)下载FuHyMC部分配置好的HMCL客户端
+**[点击这里](https://cdn.jsdelivr.net/gh/dixiatielu/fuhymc-docs/.gitbook/assets/FuHyMC.zip)下载FuHyMC部分配置好的HMCL客户端**
 
 若需使用其他启动器（或者不想下载我们提供的HMCL启动器），请首先访问[LittleSkin官网用户使用手册](https://manual.littlesk.in/advanced/yggdrasil.html#%E5%9C%A8%E5%AE%A2%E6%88%B7%E7%AB%AF%E4%BD%BF%E7%94%A8)
 
