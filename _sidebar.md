@@ -7,6 +7,8 @@
   * [QQ机器人指令](fu-wu-qi-wan-fa/qqbot.md)
 * [更新日志](changelog.md)
 * [捐助FuHyMC](sponsor.md)
+* 新版服务器说明
+  * [简介](new-version.md)
 
 * 有关服务器的外部链接
 * [LittleSkin官网](https://mcskin.littleservice.cn/)

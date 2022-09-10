@@ -13,7 +13,7 @@
 
 玩法：粘液科技及大量附属 + 危险洞穴 + 更多附魔
 
-特色：使用[LittleSkin](https://mcskin.littleservice.cn/)的外置登录，各玩家能互相~~欣赏~~皮肤
+特色：使用[LittleSkin](https://mcskin.littleservice.cn/)的外置登录 ~~各玩家能互相欣赏皮肤~~
 
 QQ群：[点击这里或搜索群号1079084078加入](https://jq.qq.com/?_wv=1027&k=bw6B6MKN)
 
