@@ -1,5 +1,7 @@
 # 加入步骤
 
+!> 对于**仅**拥有基岩版Minecraft的玩家，请直接在基岩版中进入服务器，无需根据下方操作进行注册。地址为`entrance.fuhymc.cn`，端口为`19132`。但如果您需要进行Java版与基岩版的数据互通，请完成下列步骤并成功通过Java版进入服务器后[转到这里](geyser-data-interchange.md)以查看互通配置教程。
+
 ## 注册账号
 
 [点击这里进入LittleSkin官网](https://littleskin.cn/)注册账号

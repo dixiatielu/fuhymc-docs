@@ -1,16 +1,17 @@
 # 欢迎来到FuHyMC Minecraft社区
 
-!> 此文档正在修改中，因此我们建议您直接加入我们的QQ群1079084078寻求登录方法而非阅读此文档。
+<!-- !> 此文档正在修改中，因此我们建议您直接加入我们的QQ群1079084078寻求登录方法而非阅读此文档。 -->
 > 本服务器使用LittleSkin外置登录，允许基岩版（Bedrock Edition，其中包括安卓、iOS等手机版）与Java版共同游玩同一服务器。
 > 购买了Minecraft：Java 版和 Bedrock 版的Minecraft正版用户还可实现基岩版与Java版账户信息互通（既角色信息共用，包括背包数据，玩家位置，身份组等）。[详情请见此处](geyser-data-interchange)
+!> 对于**仅**拥有基岩版Minecraft，且并不打算在电脑上进行游玩本服务器的玩家，请直接在基岩版中进入服务器，无需根据下方操作进行注册。地址为`entrance.fuhymc.cn`，端口为`19132`。但如果您需要进行Java版与基岩版的数据互通，请完成下列步骤并成功通过Java版进入服务器后[转到这里](geyser-data-interchange.md)以查看互通配置教程。
 
 ## 简介
 
 服务器版本：1.19.3
 
-**服务器地址：`play.fuhymc.cn`**
+**服务器地址：`entrance.fuhymc.cn:25565`** **或者`play.fuhymc.cn`**
 
-备用地址：`entrance.fuhymc.cn:25565` \(上面那个加不进去就用这个\)
+<!-- 备用地址：`entrance.fuhymc.cn:25565` \(上面那个加不进去就用这个\) -->
 
 玩法：
 双服务器：

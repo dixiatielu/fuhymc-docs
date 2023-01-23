@@ -36,10 +36,10 @@
 
 `/craft` 打开工作台
 
-`/qq chat` 启用\关闭QQ聊天功能
+<!-- `/qq chat` 启用\关闭QQ聊天功能 -->
 
 `/tpr` 随机传送
 
 `/tpa` 传送至某玩家
 
-> 若有补充，请[访问服务器反馈](https://support.qq.com/products/174476)提交你的想法
+> 若有补充，请直接在QQ群内或[访问服务器反馈](https://support.qq.com/products/174476)提交你的想法
